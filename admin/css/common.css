@@ -1,0 +1,29 @@
+
+        *{
+          font-family: 'Fira Sans', sans-serif;
+        }
+        .h-font{
+          font-family: 'Literata', serif;
+        }
+         input::-webkit-outer-spin-button,
+         input::-webkit-inner-spin-button {
+         -webkit-appearance: none;
+         margin: 0;
+        }
+
+        input[type=number] {
+          -moz-appearance: textfield;
+        }
+
+        .custom-bg{
+          background-color:rgb(22, 133, 96);;
+        }
+        .custom-bg:hover{
+          background-color: rgb(76, 87, 83);
+
+        }
+        .h-line{
+          width: 150px;
+          margin: 0 auto;
+          height: 1.7px;
+        }
